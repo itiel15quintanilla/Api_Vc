@@ -1,0 +1,30 @@
+C:\Users\52866\Documents\Api_Vb\Api_Vb\bin\Debug\Api_Vb.exe.config
+C:\Users\52866\Documents\Api_Vb\Api_Vb\bin\Debug\Api_Vb.exe
+C:\Users\52866\Documents\Api_Vb\Api_Vb\bin\Debug\Api_Vb.pdb
+C:\Users\52866\Documents\Api_Vb\Api_Vb\bin\Debug\Api_Vb.xml
+C:\Users\52866\Documents\Api_Vb\Api_Vb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\52866\Documents\Api_Vb\Api_Vb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbprojAssemblyReference.cache
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.Form1.resources
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.Resources.resources
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbproj.GenerateResource.cache
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbproj.CoreCompileInputs.cache
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbproj.CopyComplete
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.exe
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.xml
+C:\Users\52866\Documents\Api_Vb\Api_Vb\obj\Debug\Api_Vb.pdb
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\bin\Debug\Api_Vb.exe.config
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\bin\Debug\Api_Vb.exe
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\bin\Debug\Api_Vb.pdb
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\bin\Debug\Api_Vb.xml
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbprojAssemblyReference.cache
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.Form1.resources
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.Resources.resources
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbproj.GenerateResource.cache
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbproj.CoreCompileInputs.cache
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.vbproj.CopyComplete
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.exe
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.xml
+C:\Users\itiel\OneDrive\Documentos\8vo semestre\Sistemas de programacion II\Api_Vb\Api_Vb\obj\Debug\Api_Vb.pdb
